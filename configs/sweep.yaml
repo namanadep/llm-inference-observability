@@ -1,0 +1,6 @@
+tensor_parallel: [1, 2, 4]
+batch_size: [1, 4, 8]
+precision: ["bf16"]
+warmup_iterations: 3
+timed_iterations: 20
+max_new_tokens: 64

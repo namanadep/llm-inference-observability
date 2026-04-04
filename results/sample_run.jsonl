@@ -1,0 +1,1 @@
+{"event": "synthetic", "tensor_parallel": 4, "batch_size": 8, "precision": "bf16", "tokens_per_s": 1234.56, "wall_ms": 120.5, "meta": {"timed_iterations": 20}}
